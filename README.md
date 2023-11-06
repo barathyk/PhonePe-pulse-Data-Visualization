@@ -1,6 +1,6 @@
 ![img](https://user-images.githubusercontent.com/121713702/226621611-58ea743a-9f9d-43cd-880f-39e0f4e45b9c.png)
 
-# PhonePe-Pulse-Deduction 
+# PhonePe-Pulse-Data-Visualization 
 ### Overview:
 The PhonePe Pulse website showcases more than 2000+ Crore transactions by consumers on an interactive map of India. With over 45% market share,
 PhonePe's data is representative of the country's digital payment habits. The insights on the website and in the report have been drawn from two key sources - 
